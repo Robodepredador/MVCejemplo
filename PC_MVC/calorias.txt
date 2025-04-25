@@ -1,0 +1,7 @@
+Juan,3,4,5,12,Bajo Consumo,Sugerencia: aumentar la ingesta de proteínas y carbohidratos.
+Juan,3,4,5,12,Bajo Consumo,Sugerencia: aumentar la ingesta de proteínas y carbohidratos.
+Juan,123,123,23,269,Bajo Consumo,Sugerencia: aumentar la ingesta de proteínas y carbohidratos.
+juan,3,4,5,12,Bajo Consumo,Sugerencia: aumentar la ingesta de proteínas y carbohidratos.
+car,2,1,3,6,Bajo Consumo,Sugerencia: aumentar la ingesta de proteínas y carbohidratos.
+car,2,1,3,6,Bajo Consumo,Sugerencia: aumentar la ingesta de proteínas y carbohidratos.
+car,2,1,3,6,Bajo Consumo,Sugerencia: aumentar la ingesta de proteínas y carbohidratos.
